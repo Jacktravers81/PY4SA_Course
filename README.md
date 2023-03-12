@@ -1,4 +1,5 @@
-# Commands for Starting in VS Code
+# Key things
+### Commands for Starting in VS Code
 `conda activate py4sa`
 `jupyter lab`
 
