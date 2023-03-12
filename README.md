@@ -2,6 +2,9 @@
 > conda activate py4sa
 > jupyter lab
 
+### how to save/upload to github
+change->save->branch icon->message->commit->sync
+
 # Python for Spatial Analysis - Intro
 
 This repository includes the practice exercises for the second part of the module of GG3209 Spatial Analysis with GIS at the University of St Andrews - School of Geography and Sustainable Development.
