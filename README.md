@@ -1,8 +1,8 @@
 # Commands for Starting in VS Code
-> conda activate py4sa
-> jupyter lab
+`conda activate py4sa`
+`jupyter lab`
 
-### how to save/upload to github
+### How to save/upload to Github
 change->save->branch icon->message->commit->sync
 
 # Python for Spatial Analysis - Intro
