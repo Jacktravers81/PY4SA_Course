@@ -1,3 +1,7 @@
+# Commands for Starting in VS Code
+> conda activate py4sa
+> jupyter lab
+
 # Python for Spatial Analysis - Intro
 
 This repository includes the practice exercises for the second part of the module of GG3209 Spatial Analysis with GIS at the University of St Andrews - School of Geography and Sustainable Development.
