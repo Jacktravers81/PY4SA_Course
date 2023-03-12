@@ -2,7 +2,7 @@
 `conda activate py4sa`
 `jupyter lab`
 
-### How to save/upload to Github
+### How to save/upload to GitHub
 change->save->branch icon->message->commit->sync
 
 # Python for Spatial Analysis - Intro
